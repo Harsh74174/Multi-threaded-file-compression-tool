@@ -1,7 +1,8 @@
 # Multi-threaded-file-compression-tool
 This ia a c++ tool that compresses and decompresses file using multi threading , design for faster performance   
-## 🛠 Compile & Run
-
-```bash
-g++ -std=c++11 -pthread "multi threaded file compression tool.cpp" -o file_tool.exe
-./file_tool.exe
+COMPANY : CODTECH IT SOLUTIONS
+NAME : HARSH KUMAR
+INTERN ID : CT06DG2045
+DOMAIN : C++ PROGRAMING
+DURATION : 6 WEEKS
+MENTOR : NEELA SANTOSH
